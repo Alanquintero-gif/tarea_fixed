@@ -117,3 +117,7 @@ button i {color: #fff;
 font-weight: 700px;
 font-family: "DM Sans", sans-serif;
 }
+
+.boton button:hover {
+  background-color: #593bb6;
+}
